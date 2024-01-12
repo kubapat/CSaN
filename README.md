@@ -1,15 +1,16 @@
 # CSaN
 
 ## Description
-This is a simple runner demonstrating the Neural network hardware acceleration using the CUDA technology by training a model on the both CPU and GPU and comparing the performance results.
+This is a simple runner demonstrating the Neural Network Hardware Acceleration using the CUDA technology by training a model on the both CPU and GPU and comparing the performance results.
 ## Requirements
-* Python 3.6 or higher
+* Python 3.9, other versions were not tested
 * Pip3
+* Anaconda, all necessary packages can be installed using conda
 
 ## Installation
 To install the required packages, you need to run the following command in the terminal:
 ```
-pip3 install -r requirements.txt
+conda env create -f environment.yml
 ```
 
 ## Usage
