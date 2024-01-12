@@ -16,5 +16,5 @@ conda env create -f environment.yml
 ## Usage
 To run the program, you need to run the following command in the terminal:
 ```
-python3 CSaN.py
+python CSaN.py
 ```
